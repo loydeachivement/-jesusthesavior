@@ -67,3 +67,9 @@
 	from{bottom: 700px;}
 	to{bottom:  0px;}
 /*Eand of the animation of the cover page*/
+footer{
+	background-color: #777;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}

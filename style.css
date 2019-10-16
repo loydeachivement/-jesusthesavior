@@ -1,6 +1,6 @@
 
-.col-md-6{background-image: url(img/img4.jpg) }
-.col-md-3{background-color: rgb(255,66,92);}
+/*.col-md-6{background-image: url(img/img4.jpg) }
+.col-md-3{background-color: rgb(255,66,92);}*/
 .dwn{color: black}
 
 .body2{background-color: #fff2e6}
@@ -14,9 +14,18 @@
 .carousel .item img{
 	margin: 0 auto;
 }
+.text1{
+	font-size: 35px;
+}
+.text2{
+	font-size: 20px;
+}
+#bgcontainer2{
+	background-color: #f0f5f5;
+}
 
 .bs-example{
-	margin: 20px;
+	margin: 5px;
 }
 
 

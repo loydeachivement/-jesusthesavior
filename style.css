@@ -24,12 +24,12 @@
 	background-color: black;
 }
 .cover_text{
-	font-size: 70px;
+	font-size: 65px;
 }
 .button_cover{
 	background-color: #0066cc;
 	border: none;
-	padding: 10px 80px;
+	padding: 10px 60px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
@@ -42,15 +42,6 @@
 	background: #0055cc;
 }
 
-.form_box{
-	border: solid black;
-	padding: 100px;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	border-radius: 12px
-}
 
 /*Animation of the cover page*/
 #container_cover{

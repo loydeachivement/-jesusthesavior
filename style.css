@@ -52,9 +52,9 @@
 
 @-webkit-keyframes mymove{
 	from{bottom: 0px;}
-	to{bottom: 700px;}
+	to{bottom: 600px;}
 }
 @keyframes mymove{
-	from{bottom: 700px;}
+	from{bottom: 600px;}
 	to{bottom:  0px;}
 /*Eand of the animation of the cover page*/

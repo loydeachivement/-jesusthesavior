@@ -1,0 +1,70 @@
+
+
+
+.cover_page{
+	background-color: black;
+}
+.cover_text{
+	font-size: 65px;
+}
+.button_cover{
+	background-color: #0066cc;
+	border: none;
+	padding: 10px 60px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 12px
+
+}
+.button_cover:hover {
+	background: #0055cc;
+}
+footer{
+	background-color: #777;
+	padding: 5px;
+	text-align: center;
+	color: white;
+}
+
+/*Animation of the cover page*/
+#container_cover{
+	position: relative;
+	-webkit-animation: mymove 5s ;
+	animation: mymove 5s ;
+}
+
+@-webkit-keyframes mymove{
+	from{bottom: 0px;}
+	to{bottom: 700px;}
+}
+@keyframes mymove{
+	from{bottom: 700px;}
+	to{bottom:  0px;}
+/*Eand of the animation of the cover page*/
+}
+.homeBody{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.flex-container > div{
+	background-color: #f1f1f1;
+	margin: 10px;
+}
+.jumbotron{
+	background-image: url(img/flw1.png);
+}
+.card-text{
+	font-family: Roboto;
+	padding-left: 5px;
+	font-size: 17px;
+}
+
+.card{
+	border-radius: 2%;
+	height: 500px;
+	width: 350px;
+	background-color: #f1f1f1;
+}

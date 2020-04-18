@@ -45,6 +45,8 @@ footer{
 	to{bottom:  0px;}
 /*Eand of the animation of the cover page*/
 }
+
+
 .jumbotron{
 	background-image: url(img/flw1.png);
 }
@@ -55,7 +57,7 @@ footer{
 
 .card{
 	border-radius: 2%;
-	height: 500px;
+	height: 510px;
 	width: 350px;
 	background-color: #f1f1f1;
 }

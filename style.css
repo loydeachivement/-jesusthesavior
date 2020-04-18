@@ -45,10 +45,6 @@ footer{
 	to{bottom:  0px;}
 /*Eand of the animation of the cover page*/
 }
-.flex-container > div{
-	background-color: #f1f1f1;
-	margin: 10px;
-}
 .jumbotron{
 	background-image: url(img/flw1.png);
 }
